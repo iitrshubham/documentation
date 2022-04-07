@@ -17,12 +17,12 @@ sys.path.insert(0, os.path.abspath('../_src'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Lol'
-copyright = '2022, FLOW'
-author = 'FLOW'
+project = 'python_shubham'
+copyright = '2022, shubham'
+author = 'shubham'
 
 # The full version, including alpha/beta/rc tags
-release = '1'
+release = '007'
 
 
 # -- General configuration ---------------------------------------------------
